@@ -1,0 +1,14 @@
+pkgbase = kyocera-ppds-ksl84
+	pkgdesc = Kyocera Linux PPD collection (KSL 8.4)
+	pkgver = 8.4
+	pkgrel = 2
+	url = https://www.kyoceradocumentsolutions.com/
+	arch = any
+	license = custom
+	makedepends = libarchive
+	depends = cups
+	noextract = Linux_PPDs_KSL8_4.zip
+	source = Linux_PPDs_KSL8_4.zip
+	sha256sums = 5e79034c9f92d5b656dcbf8967ebdf2007e28f3fefad97b9e8215aa7ef673c60
+
+pkgname = kyocera-ppds-ksl84

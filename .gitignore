@@ -1,0 +1,11 @@
+# Default deny: keep the AUR repo minimal and deterministic
+*
+
+# AUR metadata and package recipe
+!.gitignore
+!PKGBUILD
+!.SRCINFO
+
+# Project reference files
+!ppd-list.txt
+!zip.sha256
